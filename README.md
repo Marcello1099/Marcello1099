@@ -1,4 +1,5 @@
 # Marcello
+- MSc Student Information Studies - Data Science
 - BSc Computer Science
 
 I find it enjoyable to learn and experiment with new programming languages and techniques. I am always looking for a bigger challenge and having a positive impact! 
